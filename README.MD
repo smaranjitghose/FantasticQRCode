@@ -2,8 +2,7 @@
 
 A minimalistic web application to generate qrcodes built using python 
 
-<center><img src="./assets/scanner.gif" alt="QR Code Scanner" style="height: 200px; width:200px; margin-left: auto;
-           margin-right: auto;"/></center>
+<p align = "center"><img src= "./assets/scanner.gif" alt="QR Code Scanner" height= 250 width = 250></p>
 
 
 ## Set-Up ⚒️
