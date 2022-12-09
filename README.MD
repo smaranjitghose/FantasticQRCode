@@ -1,11 +1,17 @@
 # Fantastic QR Code Generator
 
-A minimalistic web application to generate qrcodes built using python
+A minimalistic web application to generate qrcodes built using python 
+
+<center><img src="./assets/scanner.gif" alt="QR Code Scanner" style="height: 200px; width:200px; margin-left: auto;
+           margin-right: auto;"/></center>
 
 
-## Set-Up
+## Set-Up ⚒️
 
 - Ensure you have the latest stable version of [Python](https://www.python.org/downloads/) in your system
+
+- Open your terminal / command prompt. 
+
 - Clone the repository 
 
     ```git clone https://github.com/smaranjitghose/fantasticqrcode```
@@ -24,15 +30,24 @@ A minimalistic web application to generate qrcodes built using python
 
 - If the app does not load by itself in your default browser, open a browser of your choice and navigate to  `http://localhost:8501`
 
-## Future Work
+- To stop the application, press `CTRL + C` in your terminal
+
+## Future Work 🏗️
 
 - Generate Batch QR Codes using csv file of URLs
 - Make an exectuable file
 - Dockerize the application
 
-## Hosting Options
+## Hosting Options 🥊
 
-- Streamlit Cloud
-- Railway
-- Cycle
+**Free Tier**
+- [Streamlit Cloud](https://streamlit.io/cloud)
+- [Railway](https://railway.app/)
 - [Render](https://render.com/)
+- [Fly](https://fly.io/)
+- [Cyclic](https://app.cyclic.sh/#/)
+
+**No Free Tier**
+- [Heroku](https://www.heroku.com/)
+- [Digital Ocean](https://www.digitalocean.com/)
+
