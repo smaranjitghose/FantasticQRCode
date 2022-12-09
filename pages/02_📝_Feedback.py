@@ -30,7 +30,7 @@ st_lottie(anim,
             )
 # HTML code for formsubmit contactform template
 contact_form = """
-            <form action="https://formsubmit.co/b365a7af4d69269a92869bf9be52f1ba" method="POST">
+            <form action="https://formsubmit.co/b2365a7af4d69269a92869bf9be52f1ba" method="POST">
             <input type="hidden" name="_captcha" value="true">
             <input type="hidden" name="_template" value="table">
             <input type="text" name="name" placeholder="Your name" required>
