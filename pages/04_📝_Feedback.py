@@ -1,5 +1,5 @@
 """
-Contact Form using formsubmit.co API
+Contact Page using formsubmit.co API
 """
 import streamlit as st
 from streamlit_lottie import st_lottie
