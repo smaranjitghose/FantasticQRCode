@@ -32,7 +32,7 @@ def main():
     # Load and display animation
     anim = lottie_local("assets/animations/scanner.json")
     st_lottie(anim,
-            speed=1,
+            speed=2,
             reverse=False,
             loop=True,
             quality="medium", # low; medium ; high
