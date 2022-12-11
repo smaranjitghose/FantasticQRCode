@@ -8,7 +8,13 @@ from utils import *
 st.set_page_config(
         page_icon="🤳",
         page_title = "Fantastic QR Code Gen",
-        layout="centered"
+        layout="centered",
+        initial_sidebar_state="expanded",
+        menu_items={
+        'Get Help': 'https://github.com/smaranjitghose/fantasticqrcode',
+        'Report a bug': "https://github.com/smaranjitghose/fantasticqrcode/issues",
+        'About': "## A minimalistic application to generate QR Codes using python"
+        }
     )
 
 st.title(":mailbox: Get In Touch With Me!")
