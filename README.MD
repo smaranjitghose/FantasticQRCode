@@ -4,7 +4,6 @@ A minimalistic web application to generate qrcodes built using python
 
 <p align = "center"><img src= "./assets/scanner.gif" alt="QR Code Scanner" height= 250 width = 250></p>
 
-
 ## Set-Up ⚒️
 
 - Ensure you have the latest stable version of [Python](https://www.python.org/downloads/) in your system
@@ -31,16 +30,20 @@ A minimalistic web application to generate qrcodes built using python
 
 - To stop the application, press `CTRL + C` in your terminal
 
+## Deployment
+
+[Click Here 👈*](https://smaranjitghose-fantasticqrcode-home-j7oubv.streamlit.app/)
+
 ## Future Work 🏗️
 
 - Generate Batch QR Codes using csv file of URLs
 - Make an exectuable file
 - Dockerize the application
 
-## Hosting Options 🥊
+## Deployment Options 🥊
 
 **Free Tier**
-- [Streamlit Cloud](https://streamlit.io/cloud)
+- [Streamlit Cloud](https://streamlit.io/cloud)  ✔️
 - [Railway](https://railway.app/)
 - [Render](https://render.com/)
 - [Fly](https://fly.io/)
