@@ -1,6 +1,6 @@
 numpy
-pandas==1.5.2
-Pillow==9.3.0
-qrcode==7.3.1
-streamlit==1.15.2
-streamlit_lottie==0.0.3
+pandas
+Pillow
+qrcode
+streamlit
+streamlit_lottie
