@@ -30,9 +30,9 @@ A minimalistic web application to generate qrcodes built using python
 
 - To stop the application, press `CTRL + C` in your terminal
 
-## Deployment
+## Demo
 
-[Click Here 👈*](https://smaranjitghose-fantasticqrcode-home-j7oubv.streamlit.app/)
+[Click Here 👈](https://smaranjitghose-fantasticqrcode-home-j7oubv.streamlit.app/)
 
 ## Future Work 🏗️
 
