@@ -1,8 +1,8 @@
 # Fantastic QR Code Generator
 
-A minimalistic web application to generate qrcodes built using python 
-
 <p align = "center"><img src= "./assets/scanner.gif" alt="QR Code Scanner" height= 250 width = 250></p>
+
+A minimalistic web application to generate qrcodes built using python 
 
 ## Set-Up ⚒️
 
@@ -43,6 +43,9 @@ A minimalistic web application to generate qrcodes built using python
 ## Demo 👇
 
 [Click Here 🔗](https://smaranjitghose-fantasticqrcode-home-j7oubv.streamlit.app/)
+
+<p align = "center"><img src = "./assets/demo_snapshot_v1.png" height = 300 alt = "QRCodeGenerator Snapshot"></p>
+
 
 ## Future Work 🏗️
 
