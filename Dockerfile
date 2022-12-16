@@ -13,7 +13,6 @@ WORKDIR /app
 ADD . /app
 # Install dependencies
 RUN apt-get update
-RUN apt-get install ffmpeg
 RUN pip install -r requirements.txt
 # Copying all files over
 COPY . /app
