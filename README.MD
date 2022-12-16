@@ -44,7 +44,7 @@ A minimalistic web application to generate qrcodes built using python
 
 [Click Here 🔗](https://smaranjitghose-fantasticqrcode-home-j7oubv.streamlit.app/)
 
-<p align = "center"><img src = "./assets/demo_snapshot_v1.png" height = 300 alt = "QRCodeGenerator Snapshot"></p>
+<p align = "center"><img src = "./assets/demo_snapshot_v1.png" height = 300 width = 450 alt = "QRCodeGenerator Snapshot"></p>
 
 
 ## Future Work 🏗️
