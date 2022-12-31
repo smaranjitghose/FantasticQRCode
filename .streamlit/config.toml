@@ -7,7 +7,7 @@ font = "serif"
 
 
 [server]
-port = 80
+port = 8051
 
 [browser]
 gatherUsageStats = false
