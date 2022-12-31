@@ -8,7 +8,7 @@ export let options = {
   noConnectionReuse:false
 };
 
-export default function () {
+export default () => {
   http.get('http://localhost:8051');
   sleep(2);
 }
